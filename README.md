@@ -1,6 +1,6 @@
 Hi, I am Jordy 💜
 
-- I am A student from the Netherlands, currently studying Software Dev🇳🇱
+- I am a student from the Netherlands, currently studying Software Dev🇳🇱
 
 - If you wish you can find me on <a href="https://discord.com/users/521321320122941440">Discord🔗</a> 
 
